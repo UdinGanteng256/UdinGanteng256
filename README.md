@@ -1,4 +1,3 @@
-# 💫 About Me:
 👋 About Me<br><br>Hi, I'm Pathih — a developer focused on building interactive systems, game experiences.<br>I specialize in creating functional and experimental solutions using modern web technologies, Unity, and automation concepts. <br>Passionate about system design, problem solving, and turning complex ideas into scalable implementations.<br>Currently exploring advanced AI workflows and interactive application development.<br><br>⭐ Building, learning, and iterating continuously.<br>
 
 
